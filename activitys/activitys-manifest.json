@@ -10,5 +10,16 @@
    "endTime":"2020-01-03 23:59:59",
    "src":"^/IMG_20200101_103824.jpg"
   }
+ ],
+ "ftzs":
+ [
+  {
+   "time":"2020-01-01",
+   "isFirstOpenApp":true,
+   "title":"新的一年，0202开车！",
+   "massage":"alpha版本的Mpacks，著您辛黏筷勒！",
+   "action":1
+   
+  }
  ]
 }
