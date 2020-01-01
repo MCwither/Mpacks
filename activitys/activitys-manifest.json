@@ -1,0 +1,14 @@
+{
+ "manifest":
+ {
+  "app":"Mpacks"
+ },
+ "time-pics":
+ [
+  {
+   "startTime":"2020-01-01 00:00:00",
+   "endTime":"2020-01-03 23:59:59",
+   "src":"^/2020-newyear-1.jpg"
+  }
+ ]
+}
